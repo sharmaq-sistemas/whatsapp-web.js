@@ -1,6 +1,6 @@
 {
   "name": "sharmaq-whatsapp-web.js",
-  "version": "1.22.1",
+  "version": "1.0.0",
   "description": "Library for interacting with the WhatsApp Web API ",
   "main": "./index.js",
   "typings": "./index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedroslopez/whatsapp-web.js.git"
+    "url": "git+https://github.com/sharmaq-sistemas/whatsapp-web.js.git"
   },
   "keywords": [
     "whatsapp",
